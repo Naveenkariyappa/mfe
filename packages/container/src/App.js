@@ -5,5 +5,4 @@ const App = () => {
   return <MarketingApp />;
 };
 
-console.log('test');
 export default App;
